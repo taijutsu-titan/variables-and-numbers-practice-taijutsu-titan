@@ -19,7 +19,7 @@ console.log("Exercise Two");
 //
 // Write your code here  👇
 
- console.log("6 / 3")
+ console.log(6 / 3)
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Three");
@@ -27,7 +27,7 @@ console.log("Exercise Three");
 //
 // Write your code here 👇
 
-console.log("1 + 3" * 4);
+console.log((2 + 2) * 4);
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Four");
@@ -35,7 +35,7 @@ console.log("Exercise Four");
 // Write your code here 👇
 
 let myFavoriteNumber = 6;
-console.log ("6")
+console.log (myFavoriteNumber)
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Five");
@@ -44,7 +44,7 @@ console.log("Exercise Five");
 // Write your code here 👇
 
 let otherNumber = 5
-console.log("5")
+console.log(otherNumber)
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Six");
@@ -52,8 +52,8 @@ console.log("Exercise Six");
 //
 // Write your code here 👇
 
-let result = []
-console.log("result")
+let result;
+console.log(result)
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Seven");
@@ -63,7 +63,8 @@ console.log("Exercise Seven");
 //
 // Write your code here 👇
 
-console.log(myfavoriteNumber * otherNumber) = result
+result;
+console.log(myFavoriteNumber * otherNumber)
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Eight");
@@ -76,8 +77,8 @@ console.log("Exercise Eight");
 
 let a = 5
 let b = 8
-let difference = sum
-console.log(sum = "a - b")
+let difference = (a - b)
+console.log(difference)
 
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Nine");
@@ -92,11 +93,14 @@ console.log("Exercise Nine");
 //
 // Write your code here 👇
 
-let Animals = 6
-let Shades = 1
-let FoodScore = 7
-let FoodRun = 2
-console.log(sum = "16")
+let animals = 6
+let shades = 1
+let foodScore = 7
+let foodRun = 2
+console.log(animals);
+console.log(shades);
+console.log(foodScore);
+console.log(foodRun);
 
 
 
